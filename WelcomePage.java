@@ -15,7 +15,7 @@ public class WelcomePage {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Welcome to Techtorial sponsored vending machine!");
+        System.out.println("Welcome to our sponsored vending machine!");
         System.out.println("What is your name?");
 
         String name = scanner.next();
